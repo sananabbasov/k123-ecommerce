@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "z3Ra68CuWK4h4Dz1QxrKdfP53jtz8sqICw/VegmR3IY=",
+  "Source": "K123Ecommerce.WebApi",
+  "BasePath": "_content/K123Ecommerce.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

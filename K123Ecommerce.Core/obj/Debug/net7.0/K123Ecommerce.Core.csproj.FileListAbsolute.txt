@@ -1,0 +1,12 @@
+/Users/sanan/Desktop/Projects/Compar Academy/K123/K123Ecommerce/K123Ecommerce.Core/bin/Debug/net7.0/K123Ecommerce.Core.deps.json
+/Users/sanan/Desktop/Projects/Compar Academy/K123/K123Ecommerce/K123Ecommerce.Core/bin/Debug/net7.0/K123Ecommerce.Core.dll
+/Users/sanan/Desktop/Projects/Compar Academy/K123/K123Ecommerce/K123Ecommerce.Core/bin/Debug/net7.0/K123Ecommerce.Core.pdb
+/Users/sanan/Desktop/Projects/Compar Academy/K123/K123Ecommerce/K123Ecommerce.Core/obj/Debug/net7.0/K123Ecommerce.Core.csproj.AssemblyReference.cache
+/Users/sanan/Desktop/Projects/Compar Academy/K123/K123Ecommerce/K123Ecommerce.Core/obj/Debug/net7.0/K123Ecommerce.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanan/Desktop/Projects/Compar Academy/K123/K123Ecommerce/K123Ecommerce.Core/obj/Debug/net7.0/K123Ecommerce.Core.AssemblyInfoInputs.cache
+/Users/sanan/Desktop/Projects/Compar Academy/K123/K123Ecommerce/K123Ecommerce.Core/obj/Debug/net7.0/K123Ecommerce.Core.AssemblyInfo.cs
+/Users/sanan/Desktop/Projects/Compar Academy/K123/K123Ecommerce/K123Ecommerce.Core/obj/Debug/net7.0/K123Ecommerce.Core.csproj.CoreCompileInputs.cache
+/Users/sanan/Desktop/Projects/Compar Academy/K123/K123Ecommerce/K123Ecommerce.Core/obj/Debug/net7.0/K123Ecommerce.Core.dll
+/Users/sanan/Desktop/Projects/Compar Academy/K123/K123Ecommerce/K123Ecommerce.Core/obj/Debug/net7.0/refint/K123Ecommerce.Core.dll
+/Users/sanan/Desktop/Projects/Compar Academy/K123/K123Ecommerce/K123Ecommerce.Core/obj/Debug/net7.0/K123Ecommerce.Core.pdb
+/Users/sanan/Desktop/Projects/Compar Academy/K123/K123Ecommerce/K123Ecommerce.Core/obj/Debug/net7.0/ref/K123Ecommerce.Core.dll
